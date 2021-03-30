@@ -31,9 +31,9 @@ main {
 }
 
 .card {
-  background: floralwhite;
+  background: white;
   min-width: 500px;
-  min-height: 550px;
+  min-height: 500px;
   position: absolute;
   top: 15%;
   border-radius: 20px;
